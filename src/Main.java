@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
     }
-    /*
+
     public static String toUpperCase (String str) {
         StringBuilder sb = new StringBuilder();
         for (char ch : str.toCharArray()) {
@@ -12,5 +12,5 @@ public class Main {
         return sb.toString();
     }
 
-     */
+
 }
