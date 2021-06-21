@@ -21,5 +21,8 @@ public class Main {
         return sb.toString();
     }
 
+    public static String trimAString(String s){
+        return s.trim();
+    }
 
 }
